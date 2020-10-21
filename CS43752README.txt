@@ -1,0 +1,2 @@
+
+To build the program, write code for each of the activation functions (sigmoid, tanh, ReLu). Write the derivatives in code for each of the activation functions as well. Most of the code was already written for us in regards to the sigmoid activation function, so therefore we need to write code in regards to the ReLu and the tanh activation functions. Simply implement all the pre-written sigmoid functions for ReLu and tanh activation functions and the program should be ready. 
