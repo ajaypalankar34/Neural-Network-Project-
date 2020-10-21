@@ -1,2 +1,2 @@
 # Neural-Network-Project-
-Neural Network Programmed with two hidden layers
+Neural Network programmed in python with two hidden layers to model the back propogation algorithm through implementation of NumPy, Pandas, and Sci-kit libraries. The Sigmoid, tanh, ReLu activation functions are programmed within the neural network program. Implement each of the activation functions in addition to the derivatives of the activation functions to be able to obtain the expected results out of the neural network. 
